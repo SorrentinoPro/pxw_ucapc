@@ -3,7 +3,7 @@
 		Plugin Name: pxw-uber_clean_air_plan_calculator
 		
 		Plugin URI:  https://github.com/sorrentinof/pxw_ucapc
-		
+
 		Description: The Plugin will allow users to select a car (out of the six Otto Car LTD have on their Rent 2 Buy scheme) and be able to select how much money they have on their Uber Clean Air fund, in order to see how much of a discount they can get on their weekly payments if they take out a car with Otto Car.
 		
 		Version:     1.0
