@@ -14,8 +14,8 @@ Responsive cross browser / Mobile friendly.
 
 2) Unzip it and upload pxw-uber_clean_air_plan_calculator folder via Wordpress plug-in upload page then activate it.
    
-3a) Navigate to one of the page or post via the administration panel and type... [pxw_ucapc] to load the plug in inside any text editor in order to initialize the short code. 
+3) Navigate to one of the page or post via the administration panel and type... [pxw_ucapc] to load the plug in inside any text editor in order to initialize the short code. 
 
-3b) The short code can be included anywhere via php including <?php echo do_shortcode('[pxw_ucapc]'); ?>
+4) The short code can be included anywhere via php including <?php echo do_shortcode('[pxw_ucapc]'); ?>
 
 5) Finally navigate to the published page / article and enjoy. 
