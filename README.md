@@ -12,10 +12,12 @@ Responsive cross browser / Mobile friendly.
 
 1) Download pxw_ucapc-master.zip
 
-2) Unzip it and upload pxw-uber_clean_air_plan_calculator folder via Wordpress plug-in upload page then activate it.
+2) Unzip it, find pxw-uber_clean_air_plan_calculator.zip file and upload it via Wordpress plug-in upload page, then activate it.
    
-3) Navigate to one of the page or post via the administration panel and type... [pxw_ucapc] to load the plug in inside any text editor in order to initialize the short code. 
+3) Navigate to one of the page or post via the administration panel and type... [pxw_ucapc] to load the plug inside the text editor in order to initialize the short code. 
 
-4) The short code can be included anywhere via php including <?php echo do_shortcode('[pxw_ucapc]'); ?>
+4) The short code can also be included anywhere via php including <?php echo do_shortcode('[pxw_ucapc]'); ?> in your scripts
 
-5) Finally navigate to the published page / article and enjoy. 
+5) Finally navigate to the published page / article and enjoy, the calculator will be ready to utilize without extra settings.
+
+6) To interact with the calculator, swipe left and right to select a Deal or press the buttons to dinamically select a deal, then interact with the range input to specify the funds you want to check against the deal, the weekly discounted rental output will be updated dinamically (NO POST requests via form needed).
